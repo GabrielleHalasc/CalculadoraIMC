@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">imc2</string>
+    <string name="correspondente_dentro_da_tabela_a">Correspondente dentro da tabela a:</string>
+    <string name="voltar_para_a_tela_anterior">voltar para a tela anterior</string>
+    <string name="ver_tabela">Ver tabela</string>
+    <string name="o_seu_indice_de_masssa_corporal">O seu Indice de Massa Corporal é:</string>
+    <string name="calculadora_imc">Calculadora IMC</string>
+    <string name="qual_o_seu_peso">Qual o seu peso?</string>
+    <string name="calcular">Calcular</string>
+    <string name="informe_seus_dados">Informe seus dados</string>
+    <string name="qual_a_sua_altura">Qual a sua altura?</string>
+    <string name="imagem_balan_a_imc">Imagem balança IMC</string>
+    <string name="_40">+ 40</string>
+    <string name="obesidade_3_morbida">Obesidade 3 (Morbida)</string>
+    <string name="_35_5_39_9">35.5 - 39.9</string>
+    <string name="obesidade_2_severa">Obesidade 2 (Severa)</string>
+    <string name="_30_0_34_9">30.0 - 34.9</string>
+    <string name="obesidade_1">Obesidade 1</string>
+    <string name="_25_0_29_9">25.0 - 29.9</string>
+    <string name="sobrepeso">Sobrepeso</string>
+    <string name="_18_5_24_9">18.5 - 24.9</string>
+    <string name="peso_ideal">Peso ideal</string>
+    <string name="_18_5">- 18.5</string>
+    <string name="abaixo_do_peso">Abaixo do peso</string>
+    <string name="imc_kg_m">IMC (KG/m²)</string>
+    <string name="classifica_ao">Classificaçao</string>
+    <string name="tabela_imc">Tabela IMC</string>
+    <string name="imagem_tabela_imc">imagem tabela IMC</string>
+</resources>
