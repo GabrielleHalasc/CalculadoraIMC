@@ -10,6 +10,7 @@ import android.view.View
 import android.widget.Button
 import android.widget.ImageButton
 import android.widget.TextView
+import com.gabi.calculadoraimc.R
 
 class ResultActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -32,7 +33,6 @@ class ResultActivity : AppCompatActivity() {
         imgButton.setOnClickListener(View.OnClickListener {
             finish()
         })
-
 
         txtResult.text = result.toString()
 

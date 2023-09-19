@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.imc2'
+    namespace 'com.gabi.calculadoraimc'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.imc2"
+        applicationId "com.gabi.calculadoraimc"
         minSdk 24
         targetSdk 33
         versionCode 1
